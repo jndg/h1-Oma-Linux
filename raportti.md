@@ -48,9 +48,10 @@ Jätin hostnimen defaultiksi ”vbox” ja käyttäjänimeksi oma nimi. Debian a
 Software selection kohdassa valitsin ”Debian desktop environment”, ”GNOME”, ”Xfce” ja ”standard system utilities”. 
 Debian on nyt asennettu onnistuneesti.
  ![Kuvakaappaus](kuvakaappaus2.png)
-**Lauantai, 18.1.2025, Klo 18:40**
+**Lauantai, 18.1.2025, Klo 16:30**
 
 ## Jatkotoimenpiteet terminaalissa
+**Lauantai, 18.1.2025, Klo 18:40**
 
 ### Sudo-oikeuksien lisääminen
 Seuraavaksi avasin terminaalin ja huomasin, että luomalla käyttäjälläni ei ole sudo-oikeuksia. Googlaamalla selvisi helposti komennot:
