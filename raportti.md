@@ -37,7 +37,7 @@ Luodaan uusi virtuaalikone **Create Virtual Machine** käyttämällä ladattua I
 Tyyppi Linux ja versio Debian (64-bit) Valitaan kohta ”Skip Unattended Install”. 
 Asetetaan muistin määräksi 4000MB ja luodaan virtual hard disk, jonka koko on 60GB. 
 Virtuaalikoneen alustus on valmis ja seuraavaksi bootataan Debian.
- ![Kuvakaappaus](Näyttökuva-2025-01-17-204302.png)
+ ![Kuvakaappaus](Näyttökuva 2025-01-17 204302.png)
 
 ## Käynnistys työpöytäympäristöön
 
