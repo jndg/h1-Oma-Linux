@@ -37,6 +37,7 @@ Luodaan uusi virtuaalikone **Create Virtual Machine** käyttämällä ladattua I
 Tyyppi Linux ja versio Debian (64-bit) Valitaan kohta ”Skip Unattended Install”. 
 Asetetaan muistin määräksi 4000MB ja luodaan virtual hard disk, jonka koko on 60GB. 
 Virtuaalikoneen alustus on valmis ja seuraavaksi bootataan Debian.
+ ![Kuvakaappaus](Näyttökuva-2025-01-17-204302.png)
 
 ## Käynnistys työpöytäympäristöön
 
@@ -46,6 +47,7 @@ Yksi ongelma esiintyi oikean aikavyöhykkeen valitsemisessa, joten valitsin vain
 Jätin hostnimen defaultiksi ”vbox” ja käyttäjänimeksi oma nimi. Debian archive mirroriksi valitsin deb.debian.org. Http proxyn jätin tyhjäksi. 
 Software selection kohdassa valitsin ”Debian desktop environment”, ”GNOME”, ”Xfce” ja ”standard system utilities”. 
 Debian on nyt asennettu onnistuneesti.
+ ![Kuvakaappaus](Näyttökuva-2025-01-18-182956.png)
 **Lauantai, 18.1.2025, Klo 18:40**
 
 ## Jatkotoimenpiteet terminaalissa
